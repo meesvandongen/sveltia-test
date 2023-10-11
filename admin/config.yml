@@ -2,7 +2,7 @@ backend:
   name: github
   repo: meesvandongen/sveltia-test
   branch: main
-  base_url: https://sveltia-cms-auth.dongen.workers.dev/
+  base_url: https://sveltia-cms-auth.dongen.workers.dev
 
 collections:
   - name: "posts"
