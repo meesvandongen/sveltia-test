@@ -11,3 +11,5 @@ collections:
       value: en
     fields:
       - { label: "Language", name: "language" }
+
+media_folder: "images/uploads"
