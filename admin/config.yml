@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  name: github
+  repo: meesvandongen/sveltia-test
+  branch: main
+  base_url: https://sveltia-cms-auth.dongen.workers.dev/
 
 collections:
   - name: "posts"
